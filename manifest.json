@@ -1,0 +1,28 @@
+{
+    "manifest_version": 2,
+    "version": "1.0",
+    "name": "lugia hooh yveltal theme",
+    "theme": {
+      "images" : {
+        "theme_frame" : "images/lookatallthosechickens120.png",
+        "theme_tab_background" : "images/lookatallthosechickens80.png",
+        "theme_toolbar" : "images/lookatallthosechickens120.png",
+        "theme_ntp_background" : "images/lookatallthosechickens1080.png",
+        "theme_ntp_attribution" : "images/lookatallthosechickens1080.png"
+      },
+      "colors" : {
+        "bookmark_text" : [255, 255, 255],
+        "ntp_text" : [255, 255, 255],
+        "tab_text" : [255, 255, 255],
+        "toolbar_text" : [255, 255, 255],
+        "toolbar": [255, 255, 255],
+        "button_background" : [255, 255, 255]
+      },
+      "tints" : {
+        "buttons" : [1, 1, 1]
+      },
+      "properties" : {
+        "ntp_background_alignment" : "bottom"
+      }
+    }
+  }
