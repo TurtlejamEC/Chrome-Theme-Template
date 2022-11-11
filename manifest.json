@@ -15,7 +15,6 @@
         "ntp_text" : [255, 255, 255],
         "tab_text" : [255, 255, 255],
         "toolbar_text" : [255, 255, 255],
-        "toolbar": [255, 255, 255],
         "button_background" : [255, 255, 255]
       },
       "tints" : {
